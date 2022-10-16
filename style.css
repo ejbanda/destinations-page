@@ -1,0 +1,48 @@
+header{
+    border: 5px solid #6ff900;
+    margin: 2px;
+    text-align: center;
+    background-color: #e9ecef;
+}
+
+#title{
+    
+    margin: 50px;
+}
+
+.c1{
+    border: 5px solid red;
+    
+    padding-bottom: 100px;
+}
+
+.c2{
+    border: 5px solid blue;
+}
+
+form{
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-block-end: 10%;
+}
+
+input{
+    size: 50;
+    width: 95%;
+}
+
+#details{
+    border: 5px solid #ec41ff;
+    margin-top: 2px;
+    margin-bottom: 10px;
+}
+#detail_box{
+    border: 5px solid #fffa00;
+    width: auto;
+    height: 85%;
+    margin-top: 5px;
+}
+
+.btn{
+    width: 225px;
+}
