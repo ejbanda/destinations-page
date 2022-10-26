@@ -36,6 +36,9 @@ input{
     margin-top: 2px;
     margin-bottom: 10px;
 }
+#detail_title{
+    text-align: center;
+}
 #detail_box{
     border: 5px solid #fffa00;
     width: auto;
@@ -43,6 +46,12 @@ input{
     margin-top: 5px;
 }
 
-.btn{
-    width: 225px;
+#add_input{
+    width: 100%;
+}
+
+.button_container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
 }
